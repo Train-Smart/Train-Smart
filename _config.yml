@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
 title: Train Smart
 description: Better Your Self
-github.is_project_page: false
+github:
+  is_project_page: false
