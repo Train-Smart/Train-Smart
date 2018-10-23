@@ -1,5 +1,5 @@
 # Train Smart Privacy Policy
-1.  We promise to treat your data and videos with respect.
+1.  **We promise to treat your data and videos with respect.**
 1.  We will keep your submitted contact details, data, and recorded videos.
 1.  We will use your submitted contact details to:
 1.  Provide you with our service.
