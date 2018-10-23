@@ -5,7 +5,6 @@ Welcome to Train Smart!
 Use your common sense before accepting advice from us, or from anyone else. Consult (and listen to) your doctor before, during and after performing any physical exercise. Don't misuse the platform. Don't use this service if you are a minor.
 
 ## 1. Terms Of Service
-
 Please read these terms of use ("Terms") carefully before using any service offered by Train Smart.
 
 These terms and conditions outline the rules and regulations for the use of Train Smart's Service.
@@ -23,7 +22,6 @@ The following terminology applies to these Terms and Conditions, Privacy Stateme
  All terms refer to the offer, acceptance and consideration of payment necessary to undertake the process of our assistance to the Client in the most appropriate manner, whether by formal meetings of a fixed duration, or any other means, for the express purpose of meeting the Client's needs in respect of provision of the Company's stated services/products, in accordance with and subject to, prevailing law of Israel.
 
 ## 2. Ground Rules
-
 To use our service, you must be of legal age in your country, and over the age of 16.
 
 Any personal information you enter into our service is required to be accurate and current.
@@ -33,11 +31,9 @@ Our service is for personal use only. Do not register on behalf of someone else,
 It is your responsibility to secure your own account credentials, do not share them with anyone else or keep them in an unsecured location.
 
 ## 3. Change of Terms
-
 Our Terms may be changed from time to time. If you are registered to the service via the mailing list, we will notify you of these changes when they come into effect. Please take the time to read through any changes, and stop using our Service if you do not agree to them.
 
-4. Privacy
-
+## 4. Privacy
 We may collect and use some of your personal information in accordance with [Train Smart's privacy policy](privacy).
 
 Information and content that you send us, including text messages, photos, videos, and other content (referred to from here on out as "User Content"), whether through Facebook, email or through other communication channels, is owned by you, but on sending it to us you are licensing it to us in the following ways:
@@ -46,7 +42,7 @@ Information and content that you send us, including text messages, photos, video
 * This includes the likeness of any person that appears in the User Content, and any of the ideas or concepts contained or derived from the User Content.
 * You agree that we may use User Content for any purpose, including commercial use, which includes the right to translate, display, reproduce, modify, create derivative works, sublicense, distribute and assign these rights as we see fit, subject to applicable law and our [privacy policy](privacy).
 
-5. Physical Activity
+## 5. Physical Activity
 Our service is intended to provide you with advice regarding physical exercises. We want to help you minimize your risk of injury, and therefore the last thing we want is to cause you harm.
 
 Be aware that **any information you get from our service and from us IS NOT MEDICAL ADVICE!** 
@@ -57,7 +53,7 @@ Never disregard your medical professional due to anything you read on our servic
 
 **TO THE EXTENT PERMISSIBLE BY LAW, WE ARE NOT LIABLE OR RESPONSIBLE FOR ANY INJURIES OR DAMAGES YOU MAY SUSTAIN THAT RESULT FROM YOUR USE, OR INABILITY TO USE, OUR WEB SITE, FACEBOOK CONTENT, AND ANY OF OUR SERVICES.**
 
-6. User Content
+## 6. User Content
 Certain parts of our Service offer the opportunity for users to send us videos and other content.
 You hereby agree to only use this ability for its intended purpose. You agree not to send us any unrelated materials, including but not limited to:
 
@@ -68,7 +64,7 @@ You hereby agree to only use this ability for its intended purpose. You agree no
 * Fraudulent information
 * Malicious input intended to harm our service
 
-7. License
+## 7. License
 Unless otherwise stated, Train Smart and/or it's licensors own the intellectual property rights for all material on Train Smart. All intellectual property rights are reserved. You may view and/or print pages from the Service for your own personal use subject to restrictions set in these terms and conditions.
 
 You must not:
@@ -77,8 +73,7 @@ You must not:
 * Reproduce, duplicate or copy material
 * Redistribute content from Train Smart (unless content is specifically made for redistribution).
 
-8. Linking to This Site And To Our Facebook Content
-
+## 8. Linking to This Site And To Our Facebook Content
 We reserve the right at any time and in its sole discretion to request that you remove all links or any particular link to our Web site. You agree to immediately remove all links to our Web site upon such request. We also reserve the right to amend these terms and conditions and its linking policy at any time. By continuing to link to our Web site, you agree to be bound to and abide by these linking terms and conditions. 
 
 Without prior approval and express written permission, you may not create iframes around our Web pages or use other techniques that alter in any way the visual presentation or appearance of our Web site.
@@ -86,8 +81,7 @@ Without prior approval and express written permission, you may not create iframe
 We shall have no responsibility or liability for any content appearing on your Web site. You agree to indemnify and defend us against all claims arising out of or based upon your 
 . No link(s) may appear on any page on your Web site or within any context containing content or materials that may be interpreted as libelous, obscene or criminal, or which infringes, otherwise violates, or advocates the infringement or other violation of, any third party rights.
 
-9. Disclaimers
-
+## 9. Disclaimers
 We endeavor to ensure that the information on this website is correct. However, to the extent permissible by law, we do not warrant its completeness or accuracy; nor do we commit to ensuring that the website remains available or that the material on the website is kept up to date. 
 
 We cannot guarantee that the service will always be available or free of errors.
@@ -100,8 +94,7 @@ To the extent permissible by law, we reserve the right to terminate the web site
 
 To the extent that the website and the information and services on the website are provided free of charge, we will not be liable for any loss or damage of any nature.
 
-10. Jurisdiction
-
+## 10. Jurisdiction
 You agree that this web site and all services are based in the state of Israel, and that any dispute between you and Train Smart will be litigated in the court system of the state of Israel, without regard to choice of law provisions, and not by the 1980 UN Convention on Contracts for the International Sale of Goods.
 
 You agree that no interaction with the web site or its services gives rise to personal jurisdiction over Train Smart in any jurisdiction other than the state of Israel.
