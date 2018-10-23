@@ -1,6 +1,6 @@
 # Train Smart
 Welcome to Train Smart!
 
-[Privacy Policy](privacy.md)
+[Privacy Policy](privacy)
 
-[Terms of Service](tos.md)
+[Terms of Service](tos)
