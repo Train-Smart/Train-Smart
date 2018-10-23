@@ -1,4 +1,3 @@
-# Train Smart
 Welcome to Train Smart!
 
 [Privacy Policy](privacy)
