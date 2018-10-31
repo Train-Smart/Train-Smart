@@ -5,7 +5,7 @@ Train Smart is a service to help you exercise better! We will help you correct y
 Here is a video of how to use our service:
 <video src="https://www.facebook.com/TrainSmart2018/videos/2183202031922552/" width="320" height="480" controls preload></video>
 
-<button class="test">[Start Using Train Smart with Facebook Messenger](https://m.me/TrainSmart2018)</button>
+[Start Using Train Smart with Facebook Messenger](https://m.me/TrainSmart2018)
 
 [Privacy Policy](privacy)
 
