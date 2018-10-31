@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 .footer-text {
-  margin-left: 50%;
-  margin-right: 50%;
-  padding: 0
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
 }
